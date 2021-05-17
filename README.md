@@ -1,4 +1,2 @@
-# Konrad Siebor 
-### University of Virginia 
-### Computer Science 
+# Konrad Siebor Website
 
